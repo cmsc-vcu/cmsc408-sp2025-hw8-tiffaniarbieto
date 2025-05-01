@@ -1,18 +1,12 @@
-
-author:
-    - name: Skippy McBoatface
-      email: skippy@mcboatface.com
-
-date: last-modified
+project:
+  type: website
 
 format:
-    html:
-        theme: cosmo
-        toc: true
-        embed-resources: true
-        code-copy: true
+  html:
+    theme: cosmo
+    code-copy: true
 
-execute:
-  echo: true
-  eval: true
-  cache: false
+metadata:
+  title: Homework 8 - World Bank - Countries and Income
+  author: Tiffani Arbieto
+  email: arbietot@vcu.edu

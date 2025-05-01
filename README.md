@@ -1,10 +1,4 @@
-# cmsc408-sp2025-hw8
+# CMSC 408 Homework 8 – Tiffani Arbieto
 
-Homework 8 - World Bank Indicator Analysis
-
-(this is a scaffold.  Please clean it up.)
-
-(Remember, someday you'll look back at this repo and wonder what you were thinking!
-Now is your chance to remind your future self what you were thinking!)
-
-
+This project analyzes country-level data from the World Bank’s WDI database.  
+Tasks include cleaning and aggregating region/income data, handling missing fields, and computing group summaries using SQL and Quarto.
